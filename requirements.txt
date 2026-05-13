@@ -1,0 +1,10 @@
+# SteamRecommender — Python dependencies
+#
+# For local PySpark execution.
+# On Databricks these packages are pre-installed.
+
+pyspark>=3.3.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+pandas>=1.4.0
+numpy>=1.22.0
